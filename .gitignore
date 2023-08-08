@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+crop_image.py
+files_rename.py
